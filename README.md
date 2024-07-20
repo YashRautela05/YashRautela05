@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @YashRautela05
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning DevOps
-- 📫 How to reach me rautelayash1205@gmail.com
+- 👀 I’m interested in 
+- 🌱 I’m currently learning 
+- 📫 How to reach me 
 - 😄 Pronouns: He/him
 
 <!---
